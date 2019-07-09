@@ -4,8 +4,9 @@ Colour Calculator which can convert every possible colourspace into eachother.
 """
 __author__ = "Thommy Scheffner"
 __copyright__ = "Copyright 2019, Goethe University for DocStrings and for 'do not modify this method' methods"
+__copyright__ = "Copyright 2019, http://www.brucelindbloom.com/, https://www.adobe.com/digitalimag/pdfs/AdobeRGB1998.pdf "
+__copyright__ = "Copyright 2019, http://www.easyrgb.com/en/math.php#text2 & https://www.rapidtables.com"
 __credits__ = ["Thommy Scheffner"]
-
 __license__ = "GPL"
 __version__ = "3.7.3"
 __maintainer__ = "Thommy Scheffner"
